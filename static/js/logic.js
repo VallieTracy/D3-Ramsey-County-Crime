@@ -1,4 +1,3 @@
-// Set our margins
 var margin = {
     top: 20,
     right: 20,
@@ -144,3 +143,4 @@ d3.csv("https://data.cityofchicago.org/resource/w8km-9pzd.csv?$select=year,bus,p
         return d;
     });
 });
+
